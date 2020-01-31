@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "357197229066",
+    "firebase_url": "https://fir-app-pk31.firebaseio.com",
+    "project_id": "fir-app-pk31",
+    "storage_bucket": "fir-app-pk31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357197229066:android:80871731f90fcf1e0983f3",
+        "android_client_info": {
+          "package_name": "com.homework.database_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357197229066-tq44lvnd434f3dcbknjqco5s19nr2erm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApDE3JV5rf5cnnI_1_5tjqUa3NuWkRXu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357197229066-tq44lvnd434f3dcbknjqco5s19nr2erm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
